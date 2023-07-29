@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Cey1anze </h1>
 <h3 align="center">A Network Engineering Undergraduate Student & Open Source enthusiast.</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
