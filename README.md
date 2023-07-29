@@ -78,4 +78,5 @@
 </details>
 
 
-![](https://github.com/Cey1anze/Cey1anze/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Cey1anze/Cey1anze/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://github.com/Cey1anze/Cey1anze/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
