@@ -1,5 +1,5 @@
 <h1 align="center">Hi there , I'm Cey1anze </h1>
-<h3 align="center">A Network Engineering Undergraduate Student & Open Source enthusiast.</h3>
+<h3 align="center">A Network Security Engineer & Open Source Enthusiast.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
