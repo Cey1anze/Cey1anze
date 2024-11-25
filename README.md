@@ -72,7 +72,7 @@
   	<ul>
   	   <li><b>OS:</b> Windows 11 </li>
 	     <li><b>Laptop: </b> Lenovo Legion Y7000p 2020H (Intel)</li>
-	     <li><b>Code Editor:</b> Jetbrain IDEs</li>
+	     <li><b>Code Editor:</b> Jetbrain IDEs & VS Code</li>
 	    <br />
 	</ul>
 </details>
